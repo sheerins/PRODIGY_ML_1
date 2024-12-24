@@ -1,5 +1,5 @@
 # SCT_ML_1
-![House Price Prediction](https://github.com/BottomsNode/SCT_ML_1/blob/main/Task%201%20%20ML.png)
+
 
 # House Price Prediction with Linear Regression
 
